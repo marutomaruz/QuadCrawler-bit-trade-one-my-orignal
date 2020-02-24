@@ -1,4 +1,4 @@
-# QuadCrawler-bit-trade-one-my-orignal
+# QuadCrawler（bit-trade-one）my orignal
 bit-trade-oneから発売されたQuadCrawlerのプログラムを自分なりにいじってます
 
 本物はこちら
